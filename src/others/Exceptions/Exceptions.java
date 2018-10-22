@@ -1,6 +1,4 @@
-package others.exceptions;
-
-import java.io.IOException;
+package others.Exceptions;
 
 public class Exceptions {
 
