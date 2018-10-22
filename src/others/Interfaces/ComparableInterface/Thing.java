@@ -1,4 +1,4 @@
-package others.ComparableInterface;
+package others.Interfaces.ComparableInterface;
 
 import org.jetbrains.annotations.NotNull;
 

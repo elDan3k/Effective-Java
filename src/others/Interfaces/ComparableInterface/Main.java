@@ -1,7 +1,6 @@
-package others.ComparableInterface;
+package others.Interfaces.ComparableInterface;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
