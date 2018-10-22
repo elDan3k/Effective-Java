@@ -1,4 +1,4 @@
-package others;
+package others.exceptions;
 
 import java.io.IOException;
 
@@ -9,7 +9,7 @@ public class Exceptions {
             throw new Exception("Hello ");
         } catch (Exception e) {
             System.out.print(e.getMessage());
-            // already catched, throws compile error
+            // already caught, throws compile error
 //        } catch (IOException e) {
 //            System.out.print(e.getMessage());
         } finally {
